@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
   avatarText: {
     color: '#2b71c7',
     fontWeight: '600',
-    fontSize: 16,
+    fontSize: 20,
   },
   name: {
     fontSize: 16,
